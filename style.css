@@ -1,0 +1,14 @@
+.badge {
+    
+    color: white;
+    padding: 0px 4px;
+    text-align: center;
+    border-radius: 5px;
+    font-size: smaller;
+  }
+  .incomplete{
+    background-color: red;
+  }
+  .completed{
+    background-color: green;
+  }
